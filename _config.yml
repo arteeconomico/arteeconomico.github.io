@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            arteeconomico/artinpocket
+tagline:          Un blog d'artinpocket
+description:      arteeconomico bloc d'<a href="http://www.artinpocket.cat" target="_blank">artinpocket</a>. Creat per <a href="http://www.oxygen.cat/" target="_blank">Oxygen.cat</a>.
+url:              http://arteeconomico.com
+
+author:
+  name:           'Ramon Gil'
+  url:            https://twitter.com/freecates
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/arteeconomico/arteeconomico.github.io
