@@ -1,8 +1,7 @@
 ---
 layout: post
-title: ""
+title: Comprar arte, oferta de la semana en Artinpocket
 share: true
-published: true
 ---
 
 <figure class="text-center">
@@ -16,4 +15,4 @@ published: true
 
 Esta semana os presentamos a **[Diana Coanda y Victor Velasco](http://www.artinpocket.cat/artist_home.php?$artist_code=418)**, Diana es licenciada en Bellas Artes en la facultad de Bellas Artes de Timisoara de Rumanía y Víctor Velasco proveniente de la Escuela de Arte de Oviedo es Técnico Superior en Interiorismo. Esta pareja presentan en Artinpocket la [Serie X](http://www.artinpocket.cat/collection_home.php?$artist_code=418&$collection_code=69). Una serie de fotografías en detalle, que pretenden indagar en los más íntimos de cada persona, su tamaño reducido hace que el espectador tenga que acercarse a verlo, creando así un efecto voyeur.
  
-La propuesta que Diana presenta en Artinpocket no deja indiferente, una buena oportunidad para comprar su obra y para exponerla en tu casa, estudio y/o oficina de trabajo, seguro que esta serie serán motivo de conversación.
+La propuesta que Diana presenta en Artinpocket no deja indiferente, una buena oportunidad para comprar su obra y para exponerla en tu casa, estudio y/o oficina de trabajo, seguro que esta serie serán motivo de conversación. 
