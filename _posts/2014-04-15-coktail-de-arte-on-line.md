@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coctel de arte on line
+title: Coctel de arte online
 share: true
 ---
 
