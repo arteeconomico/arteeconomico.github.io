@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ainpocket, tu sitio de referencia para comprar arte on line
+title: Artinpocket, tu sitio de referencia para comprar arte on line
 share: true
 ---
 
