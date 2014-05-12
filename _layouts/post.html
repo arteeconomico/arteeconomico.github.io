@@ -4,7 +4,7 @@ layout: default
 
 <div itemscope itemtype="http://schema.org/Article" class="post">
   <h1 itemprop="name" class="post-title">{{ page.title }} {% if page.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %}</h1>
-  <span itemprop="datePublished" content="{{ page.date }}" class="post-date">{{ page.date | date_to_string }}</span>
+  <p class="post-date"><span itemprop="datePublished" content="{{ page.date }}">{{ page.date | date_to_string }}</span> | <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.author.name }}</span></span></p>
   {% if page.category == 'mecenes' %}
   <div class="container card">
     {{ content }}
