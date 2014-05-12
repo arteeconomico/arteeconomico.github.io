@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }} {% if page.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+<div itemscope itemtype="http://schema.org/Article" class="post">
+  <h1 itemprop="name" class="post-title">{{ page.title }} {% if page.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %}</h1>
+  <span itemprop="datePublished" content="{{ page.date }}" class="post-date">{{ page.date | date_to_string }}</span>
   {% if page.category == 'mecenes' %}
   <div class="container card">
     {{ content }}
     <p class="text-right"><small><i class="fa fa-credit-card"></i> <a href="#">Fes-la teva aportació</a></small></p>
   </div>
   {% else if %}
-  {{ content }}
+  <span itemprop="articleBody">{{ content }}</span>
   {% endif %}
   {% if page.share %}<div class="social-share">
           <ul class="socialcount socialcount-small inline-list">
