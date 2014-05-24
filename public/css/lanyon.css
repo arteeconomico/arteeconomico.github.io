@@ -60,6 +60,8 @@ figure{
 }
 figure img {
   display: inline;
+  padding: 1rem;
+  background: #ffffff;
 }
 h1 span {
   font-size: 1.5rem;
