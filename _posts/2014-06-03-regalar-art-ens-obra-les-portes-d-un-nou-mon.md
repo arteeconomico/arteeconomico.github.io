@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Regalar ens obra les portes d'un nou món
+title: Regalar art ens obra les portes d'un nou món
 share: true
 ---
 
