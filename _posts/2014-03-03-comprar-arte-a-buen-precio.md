@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/408.jpg?1394470615">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/02/exvot-figures-tura-sanz-sanglas-2013-400.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=398&$work_code=421#disqus_thread">Exvot figures, 2013</a></strong>, <a href="http://www.artinpocket.cat/gallery_home.php?$artist_code=398">PROMOCIÓ ARTINPOCKET</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/exvot-figures-tura-sanz-sanglas-2013-400/">Exvot figures. Tura Sanz Sanglas, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-category/tura-sanz-sanglas-exvots/">Tura Sanz Sanglas. Exvots</a></small></p>
 	</figcaption>
 </figure>
 

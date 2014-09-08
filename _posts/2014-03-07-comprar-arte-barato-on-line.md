@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/403.jpg?1394470922">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/02/fevreiro-marta-carrete-2013-403.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=390&$work_code=403#disqus_thread">Fevreiro, 2013</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=390">Marta Carreté , 1973</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/fevreiro-marta-carrete-2013-403/">Fevreiro. Marta Carreté, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-tag/marta-carrete/">Marta Carreté, 1973</a></small></p>
 	</figcaption>
 </figure>
 

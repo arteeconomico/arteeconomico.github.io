@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/475.jpg?1397552657">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/04/ok-hands-mateu-targa-agusti-2013-475.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=422&$work_code=475#disqus_thread">OK HANDS, 2013</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=422">Mateu Targa, 1989</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/ok-hands-mateu-targa-agusti-2013-475/">OK HANDS, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-tag/mateu-targa-agusti/">Mateu Targa, 1989</a></small></p>
 	</figcaption>
 </figure>
 

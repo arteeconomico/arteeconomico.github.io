@@ -5,10 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/404.jpg?1394470789">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/02/keith-jarret-marta-carrete-2013-404.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=390&$work_code=404#disqus_thread">
-Keith Jarret, 2013</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=390">Marta Carreté , 1973</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/keith-jarret-marta-carrete-2013-404/">Keith Jarret. Marta Carreté, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-tag/marta-carrete/">Marta Carreté, 1973</a></small></p>
 	</figcaption>
 </figure>
 

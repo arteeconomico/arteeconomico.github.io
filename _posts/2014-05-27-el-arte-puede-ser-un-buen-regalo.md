@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://artinpocket.cat/users_images/584.jpg?1401133905">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/05/boned-woman-mateu-targa-agusti-2014-584.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://artinpocket.cat/work_home.php?$artist_code=422&$work_code=584#disqus_thread">Boned Woman, 2014</a></strong>, <a href="http://artinpocket.cat/artist_home.php?$artist_code=422">Mateu Targa , 1989</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/boned-woman-mateu-targa-agusti-2014-584/">Boned Woman. Mateu Targa Agustí, 2014</a></strong>, <a href="http://www.artinpocket.cat/product-tag/mateu-targa-agusti/">Mateu Targa, 1989</a></small></p>
 	</figcaption>
 </figure>
 

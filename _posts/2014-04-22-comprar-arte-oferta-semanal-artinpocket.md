@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/478.jpg?1398155979">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/07/3-cercle-libellula-ii-aurembiaix-2014-watermark.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=294&$work_code=478#disqus_thread">Libèl.lula i atuell II, 2014</a></strong>, <a href="http://www.artinpocket.cat/collection_home.php?$artist_code=294&$collection_code=77">Col·lecció: obres en petit format</a>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=294">Aurembiaix, 1980</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/cercle-libel%C2%B7lula-ii-aurembiaix-2014/">Cercle Libèl·lula II. Aurembiaix, 2014</a></strong>, <a href="http://www.artinpocket.cat/product-tag/aurembiaix/">Aurembiaix, 1980</a></small></p>
 	</figcaption>
 </figure>
 

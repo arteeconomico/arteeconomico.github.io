@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/424.jpg?1396522354">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/03/dt-alona-vinc-2013-424.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=406&$work_code=424#disqus_thread">D/T, 2013</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=406">Alona Vinç , 1988</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/dt-alona-vinc-2013-424/">D/T. Alona Vinç, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-tag/alona-vinc/">Alona Vinç , 1988</a></small></p>
 	</figcaption>
 </figure>
 

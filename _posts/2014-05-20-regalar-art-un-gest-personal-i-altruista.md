@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://artinpocket.cat/users_images/540.jpg?1400530985">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/05/wilde-doppelganger-carmen-gonzalez-castro-2014-540.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://artinpocket.cat/work_home.php?$artist_code=445&$work_code=540">Wilde Doppelgänger, 2014</a></strong>, <a href="http://artinpocket.cat/collection_home.php?$artist_code=445&$collection_code=90">Colección Doppelganger</a>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=257">Lalaia , 1979</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/wilde-doppelganger-carmen-gonzalez-castro-2014-540/">Wilde Doppelgänger. Carmen González Castro, 2014</a></strong>, <a href="http://www.artinpocket.cat/product-category/carmen-gonzalez-castro-doppelganger/">Colección Doppelganger</a>, <a href="http://www.artinpocket.cat/product-tag/carmen-gonzalez-castro/">Lalaia, 1979</a></small></p>
 	</figcaption>
 </figure>
 

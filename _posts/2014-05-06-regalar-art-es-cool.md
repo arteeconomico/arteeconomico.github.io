@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/441.jpg?1399316990">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/03/des-de-els-cims-i-sebi-subiros-2014-441.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=419&$work_code=441">Des de els cims I, 2014</a></strong>, <a href="http://www.artinpocket.cat/collection_home.php?$artist_code=419&$collection_code=67">Col·lecció Des de els cims</a>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=258">Sebi Subirós</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/des-de-els-cims-i-sebi-subiros-2014-441/">Des de els cims I. Sebi Subirós, 2014</a></strong>, <a href="http://www.artinpocket.cat/product-category/sebi-subiros-des-de-els-cims/">Col·lecció Des de els cims</a>, <a href="http://www.artinpocket.cat/product-tag/sebi-subiros/">Sebi Subirós</a></small></p>
 	</figcaption>
 </figure>
 

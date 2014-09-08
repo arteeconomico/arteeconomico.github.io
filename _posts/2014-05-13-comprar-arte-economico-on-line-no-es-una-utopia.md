@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/288.jpg?1399964507">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2013/10/un-moment-laia-domingo-escofet-2013-288.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=257&$work_code=288">UN MOMENT, 2013</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=257">Lalaia , 1979</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/un-moment-laia-domingo-escofet-2013-288/">UN MOMENT. Laia Domingo Escofet, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-tag/laia-domingo-escofet/">Lalaia , 1979</a></small></p>
 	</figcaption>
 </figure>
 

@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/409.jpg?1398849754">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/02/pandora-iiix-antoni-miquel-morro-mas-2014-409.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=258&$work_code=409#disqus_thread">Pandora (III/X), 2014</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=258">Antoni Miquel Morro, 1980</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/pandora-iiix-antoni-miquel-morro-mas-2014-409/">Pandora (III/X), 2014</a></strong>, <a href="http://www.artinpocket.cat/product-tag/antoni-miquel-morro-mas/">Antoni Miquel Morro, 1980</a></small></p>
 	</figcaption>
 </figure>
 

@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://artinpocket.cat/users_images/605.jpg?1401738939">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/06/hilar-el-cielo-caseta-magica-2014-605.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://artinpocket.cat/work_home.php?$artist_code=446&$work_code=605#disqus_thread">Hilar el cielo, 2014</a></strong>, <a href="http://artinpocket.cat/artist_home.php?$artist_code=446">Caseta Mágica , 1976</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/hilar-el-cielo-caseta-magica-2014-605/">Hilar el cielo. Caseta Mágica, 2014</a></strong>, <a href="http://www.artinpocket.cat/product-tag/caseta-magica/">Caseta Mágica , 1976</a></small></p>
 	</figcaption>
 </figure>
 

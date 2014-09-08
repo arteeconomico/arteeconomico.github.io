@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/407.jpg?1394470700">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/06/sin-titulo-inma-saenz-2013-639.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=332&$work_code=407#disqus_thread">Rosemary's baby, 2013</a></strong>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=332">Inma Sáenz , 1976</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/sin-titulo-inma-saenz-2013-639/">Sin título. Inma Sáenz, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-tag/inma-saenz/">Inma Sáenz, 1976</a></small></p>
 	</figcaption>
 </figure>
 

@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.artinpocket.cat/users_images/465.jpg?1396520767">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/03/no6-victor-velasco-2013-465.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.artinpocket.cat/work_home.php?$artist_code=418&$work_code=465#disqus_thread">nº6, 2013</a></strong>, <a href="http://www.artinpocket.cat/collection_home.php?$artist_code=418&$collection_code=69">Serie X</a>, <a href="http://www.artinpocket.cat/artist_home.php?$artist_code=418">Diana Coanda / Víctor Velasco DV, 1986</a></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/no6-victor-velasco-2013-465/">nº6. Víctor Velasco, 2013</a></strong>, <a href="http://www.artinpocket.cat/product-category/victor-velasco-serie-x/">Serie X</a>, <a href="http://www.artinpocket.cat/product-tag/victor-velasco/">Diana Coanda / Víctor Velasco DV, 1986</a></small></p>
 	</figcaption>
 </figure>
 
