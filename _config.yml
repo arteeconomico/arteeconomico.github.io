@@ -10,6 +10,7 @@ title:            arteeconomico/artinpocket
 tagline:          Un blog d'artinpocket
 description:      "arte economico, bloc d'<a href='http://www.artinpocket.cat' target='_blank'>artinpocket</a>. Creat per <a href='http://www.oxygen.cat/' target='_blank'>Oxygen.cat</a>."
 url:              'http://www.arteeconomico.com'
+icon:			  Artinpocket_Icon_Pocket.png
 
 author:
   name:           'Artinpocket'

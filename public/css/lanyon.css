@@ -104,7 +104,10 @@ h1 span {
   position: relative;
   width: 100%;
 }
-
+.logo-icon {
+  display: inline;
+  vertical-align: middle;
+}
 
 /*
  * Container
