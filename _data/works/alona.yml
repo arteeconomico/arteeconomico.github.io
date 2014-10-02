@@ -43,11 +43,11 @@
   average_rating: "0.00"
   rating_count: 0
   related_ids: 
-    - 2292
-    - 2932
-    - 2576
-    - 2861
-    - 3014
+    - 2838
+    - 2506
+    - 2472
+    - 2930
+    - 2612
   upsell_ids: []
   cross_sell_ids: []
   categories: 
@@ -118,11 +118,11 @@
   average_rating: "0.00"
   rating_count: 0
   related_ids: 
-    - 2440
-    - 2662
-    - 2778
-    - 2354
-    - 2372
+    - 2530
+    - 2292
+    - 2502
+    - 2932
+    - 2290
   upsell_ids: []
   cross_sell_ids: []
   categories: 
@@ -187,17 +187,17 @@
   shipping_taxable: true
   shipping_class: "transport"
   shipping_class_id: 71
-  description: "<p>Observar las lineas del horizonte, una casa, un árbol, ese aroma que vuelve...</p>\n"
+  description: "<p>Observar las lineas del horizonte, una casa, un árbol, ese aroma que vuelve&#8230;</p>\n"
   short_description: ""
   reviews_allowed: true
   average_rating: "0.00"
   rating_count: 0
   related_ids: 
-    - 2620
-    - 2655
-    - 2925
-    - 2308
-    - 2622
+    - 2949
+    - 2618
+    - 2276
+    - 2398
+    - 2958
   upsell_ids: []
   cross_sell_ids: []
   categories: 
@@ -268,11 +268,11 @@
   average_rating: "0.00"
   rating_count: 0
   related_ids: 
-    - 2640
-    - 2906
-    - 2667
-    - 2434
-    - 2876
+    - 2382
+    - 2707
+    - 2899
+    - 2664
+    - 2756
   upsell_ids: []
   cross_sell_ids: []
   categories: 
@@ -343,11 +343,11 @@
   average_rating: "0.00"
   rating_count: 0
   related_ids: 
-    - 2880
-    - 2947
-    - 2651
-    - 3065
-    - 3037
+    - 2384
+    - 2887
+    - 2594
+    - 2685
+    - 2687
   upsell_ids: []
   cross_sell_ids: []
   categories: 
@@ -418,11 +418,11 @@
   average_rating: "0.00"
   rating_count: 0
   related_ids: 
-    - 2655
-    - 2674
-    - 2410
-    - 2270
-    - 2338
+    - 2362
+    - 2382
+    - 2953
+    - 2498
+    - 2306
   upsell_ids: []
   cross_sell_ids: []
   categories: 

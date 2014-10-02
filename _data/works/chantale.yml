@@ -1,0 +1,912 @@
+- 
+  title: "MINI ORGÀNIC. Chantale Heimo, 2013"
+  id: 2693
+  created_at: "2014-09-04T10:41:20Z"
+  updated_at: "2014-09-12T12:39:48Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/mini-organic-chantale-heimo-2013-218/"
+  sku: "W318"
+  price: "89.00"
+  regular_price: "89.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">89,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "11.00"
+    width: ""
+    height: "6.50"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Les escultures de fustes Mini Orgànic són petites per poder agafar-les en les mans, sentir el seu tacte, lis i càlid que ens porta en un viatge sensorial, mes enllà de la materia ens endinsa en un món invisible, allà on les paraules encara no son paraules, un lloc infinit on esta reflectit tot l?univers i el podem sentir a dins nostre. Les formes ens recorden els moviments de la naturaleza amb les seves curves.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2687
+    - 2780
+    - 2298
+    - 2490
+    - 2494
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. MINI ORGÀNIC"
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2694
+      created_at: "2014-08-04T10:41:20Z"
+      updated_at: "2014-08-04T10:41:20Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/mini-organic-chantale-heimo-2013-218.jpg"
+      title: "MINI ORGÀNIC. Chantale Heimo, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/mini-organic-chantale-heimo-2013-218.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "ATRAPA SOMNIS 2. Chantale Heimo, 2012"
+  id: 2732
+  created_at: "2014-08-04T10:41:41Z"
+  updated_at: "2014-08-04T11:18:48Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/atrapa-somnis-2-chantale-heimo-2012-297/"
+  sku: "W397"
+  price: "220.00"
+  regular_price: "220.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">220,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "22.00"
+    width: ""
+    height: "13.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Els Atrapa Somnis son un diàleg entre la materia i la no materia. Ens permeten plasmar els nostre somnis en el seu interior on quedan atrapats.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2496
+    - 2887
+    - 2994
+    - 2968
+    - 2310
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. Atrapa Somnis"
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2733
+      created_at: "2014-08-04T10:41:41Z"
+      updated_at: "2014-08-04T10:41:41Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/atrapa-somnis-2-chantale-heimo-2012-297.jpg"
+      title: "ATRAPA SOMNIS 2. Chantale Heimo, 2012"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/atrapa-somnis-2-chantale-heimo-2012-297.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "Atrapa Somnis no 1. Chantale Heimo, 2012"
+  id: 2729
+  created_at: "2014-08-04T10:41:39Z"
+  updated_at: "2014-08-04T11:19:06Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/atrapa-somnis-no-1-chantale-heimo-2012-294/"
+  sku: "W394"
+  price: "270.00"
+  regular_price: "270.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">270,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "22.00"
+    width: ""
+    height: "13.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Els Atrapa Somnis son un diàleg entre la materia i la no materia. Ens permeten plasmar els nostre somnis en el seu interior on quedan atrapats.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2590
+    - 2340
+    - 2756
+    - 2310
+    - 2606
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. Atrapa Somnis"
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2730
+      created_at: "2014-08-04T10:41:40Z"
+      updated_at: "2014-08-04T10:41:40Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/atrapa-somnis-no-1-chantale-heimo-2012-294.jpg"
+      title: "Atrapa Somnis no 1. Chantale Heimo, 2012"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/atrapa-somnis-no-1-chantale-heimo-2012-294.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "1...no 8. Chantale Heimo, 2009"
+  id: 2711
+  created_at: "2014-08-04T10:41:30Z"
+  updated_at: "2014-08-04T11:19:09Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/1-no-8-chantale-heimo-2009-227/"
+  sku: "W327"
+  price: "430.00"
+  regular_price: "430.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">430,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "40.00"
+    width: ""
+    height: "22.50"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Es una reflexión sobre como nuestra conducta o nuestros actos repercuten en nuestro entorno.<br />\nEl tema está basado en la teoría del agua del doctor Masaru Emoto y en algunos aspectos de la física actual como la física cuántica que demuestra que todo en el universo está relacionado entre si.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2386
+    - 2608
+    - 2532
+    - 2861
+    - 2974
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. 1..."
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2712
+      created_at: "2014-08-04T10:41:30Z"
+      updated_at: "2014-08-04T10:41:30Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-8-chantale-heimo-2009-227.jpg"
+      title: "1&#8230;no 8. Chantale Heimo, 2009"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-8-chantale-heimo-2009-227.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "1....no 7. Chantale Heimo, 2009"
+  id: 2709
+  created_at: "2014-08-04T10:41:29Z"
+  updated_at: "2014-08-04T11:19:09Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/1-no-7-chantale-heimo-2009-226/"
+  sku: "W326"
+  price: "430.00"
+  regular_price: "430.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">430,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: false
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "40.00"
+    width: ""
+    height: "60.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Es una reflexión sobre como nuestra conducta o nuestros actos repercuten en nuestro entorno.<br />\nEl tema está basado en la teoría del agua del doctor Masaru Emoto y en algunos aspectos de la física actual como la física cuántica que demuestra que todo en el universo está relacionado entre si.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2642
+    - 2306
+    - 2304
+    - 2989
+    - 2786
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. 1..."
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2710
+      created_at: "2014-08-04T10:41:29Z"
+      updated_at: "2014-08-04T10:41:29Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-7-chantale-heimo-2009-226.jpg"
+      title: "1&#8230;.no 7. Chantale Heimo, 2009"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-7-chantale-heimo-2009-226.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 1
+  variations: []
+  parent: []
+- 
+  title: "1...no7. Chantale Heimo, 2009"
+  id: 2707
+  created_at: "2014-08-04T10:41:28Z"
+  updated_at: "2014-08-04T11:19:09Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/1-no7-chantale-heimo-2009-224/"
+  sku: "W324"
+  price: "430.00"
+  regular_price: "430.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">430,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "40.00"
+    width: ""
+    height: "60.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Es una reflexión sobre como nuestra conducta o nuestros actos repercuten en nuestro entorno.<br />\nEl tema está basado en la teoría del agua del doctor Masaru Emoto y en algunos aspectos de la física actual como la física cuántica que demuestra que todo en el universo está relacionado entre si.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2306
+    - 2925
+    - 3031
+    - 2280
+    - 2332
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. 1..."
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2708
+      created_at: "2014-08-04T10:41:28Z"
+      updated_at: "2014-08-04T10:41:28Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no7-chantale-heimo-2009-224.jpg"
+      title: "1&#8230;no7. Chantale Heimo, 2009"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no7-chantale-heimo-2009-224.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "1...no 6. Chantale Heimo, 2009"
+  id: 2705
+  created_at: "2014-08-04T10:41:27Z"
+  updated_at: "2014-08-04T11:19:10Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/1-no-6-chantale-heimo-2009-223/"
+  sku: "W323"
+  price: "430.00"
+  regular_price: "430.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">430,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "40.00"
+    width: ""
+    height: "66.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Es una reflexión sobre como nuestra conducta o nuestros actos repercuten en nuestro entorno. El tema está basado en la teoría del agua del doctor Masaru Emoto y en algunos aspectos de la física actual como la física cuántica que demuestra que todo en el universo está relacionado entre si.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2290
+    - 2322
+    - 2326
+    - 2822
+    - 3001
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. 1..."
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2706
+      created_at: "2014-08-04T10:41:27Z"
+      updated_at: "2014-08-04T10:41:27Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-6-chantale-heimo-2009-223.jpg"
+      title: "1&#8230;no 6. Chantale Heimo, 2009"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-6-chantale-heimo-2009-223.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "1...no 5. Chantale Heimo, 2009"
+  id: 2703
+  created_at: "2014-08-04T10:41:26Z"
+  updated_at: "2014-08-04T11:19:10Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/1-no-5-chantale-heimo-2009-222/"
+  sku: "W322"
+  price: "430.00"
+  regular_price: "430.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">430,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "40.00"
+    width: ""
+    height: "66.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Es una reflexión sobre como nuestra conducta o nuestros actos repercuten en nuestro entorno.<br />\nEl tema está basado en la teoría del agua del doctor Masaru Emoto y en algunos aspectos de la física actual como la física cuántica que demuestra que todo en el universo está relacionado entre si.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2326
+    - 2861
+    - 2836
+    - 2494
+    - 2934
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. 1..."
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2704
+      created_at: "2014-08-04T10:41:26Z"
+      updated_at: "2014-08-04T10:41:26Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-5-chantale-heimo-2009-222.jpg"
+      title: "1&#8230;no 5. Chantale Heimo, 2009"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-5-chantale-heimo-2009-222.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "1...no 4. Chantale Heimo, 2009"
+  id: 2701
+  created_at: "2014-08-04T10:41:24Z"
+  updated_at: "2014-08-04T11:19:11Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/1-no-4-chantale-heimo-2009-221/"
+  sku: "W321"
+  price: "430.00"
+  regular_price: "430.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">430,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "40.00"
+    width: ""
+    height: "26.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Es una reflexión sobre como nuestra conducta o nuestros actos repercuten en nuestro entorno.<br />\nEl tema está basado en la teoría del agua del doctor Masaru Emoto y en algunos aspectos de la física actual como la física cuántica que demuestra que todo en el universo está relacionado entre si.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2528
+    - 2638
+    - 2272
+    - 2648
+    - 2260
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. 1..."
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2702
+      created_at: "2014-08-04T10:41:25Z"
+      updated_at: "2014-08-04T10:41:25Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-4-chantale-heimo-2009-221.jpg"
+      title: "1&#8230;no 4. Chantale Heimo, 2009"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-4-chantale-heimo-2009-221.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "1...no 3. Chantale Heimo, 2009"
+  id: 2698
+  created_at: "2014-08-04T10:41:23Z"
+  updated_at: "2014-08-04T11:19:11Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/1-no-3-chantale-heimo-2009-220/"
+  sku: "W320"
+  price: "430.00"
+  regular_price: "430.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">430,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "40.00"
+    width: ""
+    height: "26.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Es una reflexión sobre como nuestra conducta o nuestros actos repercuten en nuestro entorno.<br />\nEl tema está basado en la teoría del agua del doctor Masaru Emoto y en algunos aspectos de la física actual como la física cuántica que demuestra que todo en el universo está relacionado entre si.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2528
+    - 2610
+    - 2600
+    - 2486
+    - 2985
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. 1..."
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2699
+      created_at: "2014-08-04T10:41:23Z"
+      updated_at: "2014-08-04T10:41:23Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-3-chantale-heimo-2009-220.jpg"
+      title: "1&#8230;no 3. Chantale Heimo, 2009"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/1-no-3-chantale-heimo-2009-220.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "RELLEUS. Chantale Heimo, 2012"
+  id: 2695
+  created_at: "2014-08-04T10:41:21Z"
+  updated_at: "2014-08-04T11:19:11Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/relleus-chantale-heimo-2012-219/"
+  sku: "W319"
+  price: "325.00"
+  regular_price: "325.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">325,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "32.00"
+    width: ""
+    height: "27.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Fusta de nogal</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2480
+    - 2949
+    - 2851
+    - 2482
+    - 2965
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. Relleus"
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2696
+      created_at: "2014-08-04T10:41:21Z"
+      updated_at: "2014-08-04T10:41:21Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/relleus-chantale-heimo-2012-219.jpg"
+      title: "RELLEUS. Chantale Heimo, 2012"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/relleus-chantale-heimo-2012-219.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
+- 
+  title: "MINI ORGÀNIC. Chantale Heimo, 2013"
+  id: 2690
+  created_at: "2014-08-04T10:41:18Z"
+  updated_at: "2014-08-04T11:19:12Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/mini-organic-chantale-heimo-2013-217/"
+  sku: "W317"
+  price: "89.00"
+  regular_price: "89.00"
+  sale_price: null
+  price_html: "<span class=\"amount\">89,00&euro;</span>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 1
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: true
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: false
+  weight: null
+  dimensions: 
+    length: "5.00"
+    width: ""
+    height: "11.00"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Les escultures de fustes Mini Orgànic són petites per poder agafar-les en les mans, sentir el seu tacte, lis i càlid que ens porta en un viatge sensorial, mes enllà de la materia ens endinsa en un món invisible, allà on les paraules encara no son paraules, un lloc infinit on esta reflectit tot l?univers i el podem sentir a dins nostre. Les formes ens recorden els moviments de la naturaleza amb les seves curves.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2524
+    - 2552
+    - 2442
+    - 2372
+    - 3019
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Chantale Heimo. MINI ORGÀNIC"
+  tags: 
+    - "Chantale Heimo"
+  images: 
+    - 
+      id: 2691
+      created_at: "2014-08-04T10:41:19Z"
+      updated_at: "2014-08-04T10:41:19Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/mini-organic-chantale-heimo-2013-217.jpg"
+      title: "MINI ORGÀNIC. Chantale Heimo, 2013"
+      alt: ""
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2013/10/mini-organic-chantale-heimo-2013-217.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
