@@ -11,7 +11,7 @@ work: 2462
 	<img src="{{ work.featured_src }}">
 	<figcaption>
 		<p><small><strong>{{ work.title }}</strong></small></p>
-		<p><a href="{{ work.permalink }}" class="btn btn-primary btn-lg">{{ work.price_html }}! <i class="fa fa-credit-card"></i> comprala!</a></p>
+		<p><a href="{{ work.permalink }}" class="btn btn-primary btn-lg">¡{{ work.price_html }}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
 	</figcaption>
 </figure>
 
