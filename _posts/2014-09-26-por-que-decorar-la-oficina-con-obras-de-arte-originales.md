@@ -10,7 +10,7 @@ work: 2693
 <figure class="text-center">
 	<img src="{{ work.featured_src }}">
 	<figcaption>
-		<p><small><strong>{{ work.title }}</strong> | dimensiones: {{ work.dimensions.length }}x{{ work.dimensions.height }} {{ work.dimensions.unit }}</small></p>
+		<p><small><strong>{{ work.title }}</strong> | {% if work.downloadable != empty %} digital art{% else if %} dimensiones: {{ work.dimensions.length }}x{{ work.dimensions.height }} {{ work.dimensions.unit }}{% endif %}</small></p>
 		<p><a href="{{ work.permalink }}" class="btn btn-primary btn-lg">¡{{ work.price_html }}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
 	</figcaption>
 </figure>
