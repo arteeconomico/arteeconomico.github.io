@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.inpocketart.com/wp-content/uploads/2014/07/far1-Lalaia-2014-watermark.jpg"> 
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/07/far1-Lalaia-2014-watermark.jpg"> 
 	<figcaption> 
-		<p><small><strong><a href="http://www.inpocketart.com/product/far-1-lalaia-2014/">Far 1. Lalaia, 2014</a></strong></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/far-1-lalaia-2014/">Far 1. Lalaia, 2014</a></strong></small></p>
 	</figcaption> 
 </figure>
 

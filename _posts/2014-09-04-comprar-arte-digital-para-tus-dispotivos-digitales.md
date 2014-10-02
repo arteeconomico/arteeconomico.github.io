@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.inpocketart.com/wp-content/uploads/2014/07/3-cercle-libellula-ii-aurembiaix-2014-watermark.jpg"> 
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/07/3-cercle-libellula-ii-aurembiaix-2014-watermark.jpg"> 
 	<figcaption> 
-		<p><small><strong><a href="http://www.inpocketart.com/product/cercle-libel%C2%B7lula-ii-aurembiaix-2014/">Cercle Libèl·lula II. Aurembiaix, 2014</a></strong></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/cercle-libel%C2%B7lula-ii-aurembiaix-2014/">Cercle Libèl·lula II. Aurembiaix, 2014</a></strong></small></p>
 	</figcaption> 
 </figure>
 

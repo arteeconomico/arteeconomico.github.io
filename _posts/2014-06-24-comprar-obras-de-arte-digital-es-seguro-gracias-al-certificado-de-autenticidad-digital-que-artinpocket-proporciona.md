@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.inpocketart.com/wp-content/uploads/2014/05/simbiosi-watermark.jpg">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/05/simbiosi-watermark.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.inpocketart.com/product/simbiosi-marca-carrate-2014/">Simbiosi, Marca Carreté, 2014</a></strong></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/simbiosi-marca-carrate-2014/">Simbiosi, Marca Carreté, 2014</a></strong></small></p>
 	</figcaption>
 </figure>
 

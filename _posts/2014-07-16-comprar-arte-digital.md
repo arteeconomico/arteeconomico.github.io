@@ -5,9 +5,9 @@ share: true
 ---
 
 <figure class="text-center">
-	<img src="http://www.inpocketart.com/wp-content/uploads/2014/07/la-reina-roja-III-carolina-pingarron-2014-watermark.jpg">
+	<img src="http://www.artinpocket.cat/wp-content/uploads/2014/07/la-reina-roja-III-carolina-pingarron-2014-watermark.jpg">
 	<figcaption>
-		<p><small><strong><a href="http://www.inpocketart.com/product/la-reina-roja-iii-carolina-pingarron-2014/">La Reina Roja III. Carolina Pingarrón, 2014</a></strong></small></p>
+		<p><small><strong><a href="http://www.artinpocket.cat/product/la-reina-roja-iii-carolina-pingarron-2014/">La Reina Roja III. Carolina Pingarrón, 2014</a></strong></small></p>
 	</figcaption>
 </figure>
 
