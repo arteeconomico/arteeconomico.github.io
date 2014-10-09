@@ -1,0 +1,76 @@
+- 
+  title: "Veure les estrelles. Jordi Mitjà, 2014"
+  id: 3310
+  created_at: "2014-10-08T08:38:01Z"
+  updated_at: "2014-10-08T08:52:29Z"
+  type: "simple"
+  status: "publish"
+  downloadable: false
+  virtual: false
+  permalink: "http://www.artinpocket.cat/product/veure-les-estrelles-jordi-mitja-2014/"
+  sku: "W788"
+  price: "170.00"
+  regular_price: "195.00"
+  sale_price: "170.00"
+  price_html: "<del><span class=\"amount\">195,00&euro;</span></del> <ins><span class=\"amount\">170,00&euro;</span></ins>"
+  taxable: false
+  tax_status: "taxable"
+  tax_class: ""
+  managing_stock: true
+  stock_quantity: 50
+  in_stock: true
+  backorders_allowed: false
+  backordered: false
+  sold_individually: false
+  purchaseable: true
+  featured: false
+  visible: true
+  catalog_visibility: "visible"
+  on_sale: true
+  weight: null
+  dimensions: 
+    length: "28"
+    width: ""
+    height: "38"
+    unit: "cm"
+  shipping_required: true
+  shipping_taxable: true
+  shipping_class: "transport"
+  shipping_class_id: 71
+  description: "<p>Fotogravat sobre paper Arches manipulat a mà. Edició de 50 exemplars numerats i signats. 28 x 38 cm. </p>\n<p>Edició realitzada per Jordi Mitjà en motiu de la campanya de <a href=\"http://www.verkami.com/projects/8133-tipografia-artinpocket-regular\" title=\"Verkami:  Tipografia Artinpocket Regular\" target=\"_blank\">crowdfunding</a> per a desenvolupar la tipografia constructivista dissenyada per a títols i destacats <a href=\"http://www.artinpocketregular.com/download/\" title=\"La tipografia &ndash;  &middot; artinpocket/regular\" target=\"_blank\">Artinpocket</a>. Aquesta obra està vinculada a un codi QR que inclou el poema: <a href=\"http://www.artinpocketregular.com/general/home/2014/07/19/veure-les-estrelles/\" title=\"Veure les estrelles &ndash;  &middot; artinpocket/regular\" target=\"_blank\">veure les estrelles</a>.  Edita: <a href=\"/\" title=\"Artinpocket | The community that sale accessible art with a single click\">Artinpocket</a>.</p>\n"
+  short_description: ""
+  reviews_allowed: true
+  average_rating: "0.00"
+  rating_count: 0
+  related_ids: 
+    - 2632
+    - 2894
+    - 2991
+    - 2680
+    - 2534
+  upsell_ids: []
+  cross_sell_ids: []
+  categories: 
+    - "-ANALOGIC"
+    - "Emocionart"
+  tags: 
+    - "Artinpocket Digital and Analogic Art"
+  images: 
+    - 
+      id: 3311
+      created_at: "2014-10-08T08:37:07Z"
+      updated_at: "2014-10-08T08:37:43Z"
+      src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/veure-les-estrelles-jordi-mitja-2014-artinpocket.jpg"
+      title: "Veure les estrelles. Jordi Mitjà, 2014"
+      alt: "Veure les estrelles. Jordi Mitjà, 2014"
+      position: 0
+  featured_src: "http://www.artinpocket.cat/wp-content/uploads/2014/10/veure-les-estrelles-jordi-mitja-2014-artinpocket.jpg"
+  attributes: []
+  downloads: []
+  download_limit: 0
+  download_expiry: 0
+  download_type: ""
+  purchase_note: ""
+  total_sales: 0
+  variations: []
+  parent: []
