@@ -15,6 +15,6 @@ work: 3342
 	</figcaption>
 </figure>
 
-T'agradaria convertir-te en un col·leccionista d'art? Doncs és possible amb Artinpocket, la nostra plataforma et permet accedir a desenes d'obres sense moure't de casa. Tothom té dret a gaudir d'obres d'art originals i úniques no cal ser un expert en aquest sector. Podem anar aprenent les tendències, els estils i descobrir quines són les peces que més t'emocionen. Amb la compra d'art ajudes a que els artistes puguin continuar creant i evolucionant. 
+T'agradaria convertir-te en un col·leccionista d'art? Doncs és possible amb **Artinpocket**, la nostra plataforma et permet accedir a desenes d'obres sense moure't de casa. Tothom té dret a gaudir d'obres d'art originals i úniques no cal ser un expert en aquest sector. Podem anar aprenent les tendències, els estils i descobrir quines són les peces que més t'emocionen. Amb la compra d'art ajudes a que els artistes puguin continuar creant i evolucionant. 
 
 Visita [www.artinpocket.cat](http://www.artinpocket.cat/) i aprofita les nostres promocions dins la campanya [#emocionart](http://www.emocio-nart.com/ofertes/).
