@@ -23,3 +23,9 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/arteeconomico/arteeconomico.github.io
+
+assets: 
+  baseurl: /public/
+
+bower_components: 
+  baseurl: /bower_components/
