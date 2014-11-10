@@ -11,7 +11,7 @@ work: 2989
 {% assign work = work_data | first %}
 <figure class="text-center">
 	<div class="padding-artwork-container">
-		<div class="embed-container embed-container_4-3">
+		<div class="embed-container embed-container_9-16">
 			<core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image>	
 		</div>
 	</div>
