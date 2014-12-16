@@ -43,6 +43,9 @@
   <meta name="twitter:image:src" content="{{ work.featured_src }}">
   {% endif %}
 
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="manifest" href="{{ site.url }}/manifest.webapp">
+
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
