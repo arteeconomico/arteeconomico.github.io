@@ -25,6 +25,6 @@ La tecnología avanza a pasos agigantados, de forma exponencial, dicen los exper
 
 Avancemos dos siglos. Estamos en el **siglo XXI** y se puede comprar arte adaptado a este tiempo, el denominado **arte digital**. ¿Y como se consume? Muy fácil, el arte ya no hace falta que sólo esté colgado en una pared, en un soporte o en un museo, lo puedes tener al alcance de tu bolsillo, en los dispositivos más utilizados hoy en día: **en el móvil y en la tablet**... en definitiva, **en cualquier pantalla**. Es arte hecho y pensado para ser consumido en píxeles.
 
-¿Cómo comprar este tipo de arte? **[Artinpocket](http://www.artinpocket.cat/) es la respuesta**. Te puedes convertir en coleccionista de arte a muy bajo coste, ya que puedes seleccionar entre más de 100 obras de arte digital. 
+¿Cómo comprar este tipo de arte? **[Artinpocket](http://www.artinpocket.cat/categoria-producto/digital/) es la respuesta**. Te puedes convertir en coleccionista de arte a muy bajo coste, ya que puedes seleccionar entre más de 100 obras de arte digital. 
 
 Así de sencillo: arte actual asequible en unos pocos clicks.
