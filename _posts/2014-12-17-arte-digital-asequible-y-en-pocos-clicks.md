@@ -21,10 +21,6 @@ work: 1793
 	</figcaption>
 </figure>
 
-La tecnología avanza a pasos agigantados, de forma exponencial, dicen los expertos, y son los usuarios los que se adaptan a estas nuevas utilidades tecnológicas. ¿Y el arte? El arte es reflejo de la sociedad en la cual vivimos. Pero, ¿la sociedad está preparada y concienciada con el arte actual? Difícil pregunta y complicada respuesta. Muchas veces nos aproximamos al arte con una visión anclada en el **siglo XIX**, con la concepción romántica del **artista excéntrico y la obra única e irrepetible**.
+La Iª Mostra simultània d’art digital de Barcelona es presenta com una exposició simultània en diferents espais i edificis de referència de la ciutat. L’objectiu d’aquesta mostra es oferir al públic la possibilitat de descobrir i gaudir de l’art digital fora dels circuits expositius tradicionals. Oci, cultura i patrimoni es fusionen per oferir una experiència entorn l’Art Digital.
 
-Avancemos dos siglos. Estamos en el **siglo XXI** y se puede comprar arte adaptado a este tiempo, el denominado **arte digital**. ¿Y como se consume? Muy fácil, el arte ya no hace falta que sólo esté colgado en una pared, en un soporte o en un museo, lo puedes tener al alcance de tu bolsillo, en los dispositivos más utilizados hoy en día: **en el móvil y en la tablet**... en definitiva, **en cualquier pantalla**. Es arte hecho y pensado para ser consumido en píxeles.
-
-¿Cómo comprar este tipo de arte? **[Artinpocket](http://www.artinpocket.cat/categoria-producto/digital/) es la respuesta**. Te puedes convertir en coleccionista de arte a muy bajo coste, ya que puedes seleccionar entre más de 100 obras de arte digital. 
-
-Así de sencillo: arte actual asequible en unos pocos clicks.
+La finalitat d’aquesta mostra es divulgar la disciplina artística digital alhora que projectar i promocionar el treball de diferents artistes. Per aquesta finalitat s’han escollit nous espais i formats expositius. Artinpocket conjuntament amb el Convent de Sant Agustí i amb la col·laboració de IDODI i Blanz, han reunit més de 20 creadors d’art digital per realitzar aquesta primera exhibició.
