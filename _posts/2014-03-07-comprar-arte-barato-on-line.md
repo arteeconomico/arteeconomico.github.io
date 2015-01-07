@@ -11,7 +11,7 @@ share: true
 	</figcaption>
 </figure>
 
-**Comprar arte barato on line** ya es posible gracias a [Artinpocket](http://www.artinpocket.cat/). La compra por Internet se caracteriza por la rapidez, universalidad y variedad de producto, todas ellas características que  reúne  Artinpocket. No hay que olvidar que la compra on line como una ventaja: se ahorra tiempo, dinero y la posibilidad de encontrar productos exclusivos que no se encuentran en un entorno On line. Artinpocket nace con la voluntad de abrir nuevos canales de promoción y compra de arte, utilizando como soporte una comunidad para incentivar y estimular la venta de arte. 
+**Comprar arte barato on line** ya es posible gracias a **[Artinpocket](http://www.artinpocket.cat/)**. La compra por Internet se caracteriza por la rapidez, universalidad y variedad de producto, todas ellas características que  reúne  Artinpocket. No hay que olvidar que la compra on line como una ventaja: se ahorra tiempo, dinero y la posibilidad de encontrar productos exclusivos que no se encuentran en un entorno On line. Artinpocket nace con la voluntad de abrir nuevos canales de promoción y compra de arte, utilizando como soporte una comunidad para incentivar y estimular la venta de arte. 
 
 **Porqué comprar arte?** Históricamente es sabido que comprar arte es una gran inversión porque a diferencia de otros elementos más sujetos a variables a cambios en el Mercado, estamos ante un valor seguro que se puede mantener al margen de los altibajos económicos. 
 
