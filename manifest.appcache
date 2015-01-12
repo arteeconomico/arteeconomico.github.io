@@ -19,8 +19,8 @@ CACHE:
 {{ site.url }}{{ site.bower_components.baseurl }}polymer/polymer.min.js
 {{ site.url }}{{ site.assets.baseurl }}import-css-js.html
 {{ site.url }}{{ site.bower_components.baseurl }}webcomponentsjs/webcomponents.js
-http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400
-//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css
+https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400
+{{ site.url }}/font-awesome/css/font-awesome.min.css
 {{ site.url }}/vendor/bootstrap/css/bootstrap-custom.min.css
 {{ site.url }}/vendor/font-artinpocket/dist/stylesheet.min.css
 
