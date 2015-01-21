@@ -12,12 +12,10 @@
 <script src="/bower_components/pjax/src/pjax.min.js" async></script>
 <script type="text/javascript">
 	if (navigator.onLine) {
-		if (Pjax.isSupported) {
-			new Pjax({
+		new Pjax({
 		  	elements: "a", // default is "a[href], form[action]"
 		  	selectors: ["title","meta",".sidebar-checkbox",".content"]
 			})
-		}
 	}
 </script>
 
