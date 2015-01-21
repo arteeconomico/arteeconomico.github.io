@@ -1,0 +1,27 @@
+{
+  "name": "arteeconomico.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/arteeconomico/arteeconomico.github.io",
+  "authors": [
+    "Ramon <ramongil@ramongil.cat>"
+  ],
+  "description": "Blog d'art econòmic",
+  "main": "index.html",
+  "keywords": [
+    "art",
+    "econòmic",
+    "artinpocket"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1",
+    "core-image": "Polymer/core-image#~0.5.1"
+  }
+}
