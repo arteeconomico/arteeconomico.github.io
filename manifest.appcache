@@ -20,7 +20,7 @@ CACHE:
 {{ site.url }}{{ site.assets.baseurl }}import-css-js.html
 {{ site.url }}{{ site.bower_components.baseurl }}webcomponentsjs/webcomponents.js
 {{ site.url }}{{ site.bower_components.baseurl }}appcache-autoupdate/appcache-nanny.min.js
-{{ site.url }}{{ site.bower_components.baseurl }}pjax/src/pjax.js
+{{ site.url }}{{ site.bower_components.baseurl }}pjax/src/pjax.min.js
 https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400
 {{ site.url }}/font-awesome/css/font-awesome.min.css
 {{ site.url }}/vendor/bootstrap/css/bootstrap-custom.min.css
